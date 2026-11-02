@@ -441,7 +441,8 @@
         "image": "Covers/Florence.png",
         "pmx": "FlorenceTrident.pmx",
         "hideMaterials": [
-            "Cth-Hairband-Crystal"
+            "Cth-Hairband-Crystal",
+            "Emotions1"
         ]
     }
 ]
