@@ -439,6 +439,9 @@
         "rarity": 5,
         "directory": "chars/Florence",
         "image": "Covers/Florence.png",
-        "pmx": "FlorenceTrident.pmx"
+        "pmx": "FlorenceTrident.pmx",
+        "hideMaterials": [
+            "Cth-Hairband-Crystal"
+        ]
     }
 ]
