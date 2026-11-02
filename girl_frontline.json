@@ -427,5 +427,18 @@
         "directory": "chars/Welrod",
         "image": "Covers/Welrod.png",
         "pmx": "维尔德原皮/GirlsFrontline WelrodDefault.pmx"
+    },
+    {
+        "id": 80034,
+        "name": "Florence",
+        "displayName": "芙洛伦",
+        "weaponType": "",
+        "element": "GirlsFrontline",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/Florence",
+        "image": "Covers/Florence.png",
+        "pmx": "FlorenceTrident.pmx"
     }
 ]

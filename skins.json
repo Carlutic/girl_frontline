@@ -375,5 +375,44 @@
         "directory": "chars/Welrod",
         "image": "Covers/Welrod.png",
         "pmx": "v01/维尔德衣装皮肤/GirlsFrontline WelrodSSR0101.pmx"
+    },
+    {
+        "id": 80129,
+        "name": "Asteria",
+        "displayName": "阿斯缇亚（冬夜星途）",
+        "weaponType": "",
+        "element": "GirlsFrontline",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/Asteria",
+        "image": "Covers/Asteria.png",
+        "pmx": "v02/AsteriaWinter.pmx"
+    },
+    {
+        "id": 80130,
+        "name": "Liushih",
+        "displayName": "刘莳（东方有佳人）",
+        "weaponType": "",
+        "element": "GirlsFrontline",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/Liushih",
+        "image": "Covers/Liushih.png",
+        "pmx": "v01/LiushihOriental.pmx"
+    },
+    {
+        "id": 80131,
+        "name": "Dusevnyj",
+        "displayName": "杜莎妮（明日救星）",
+        "weaponType": "",
+        "element": "GirlsFrontline",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/Dusevnyj",
+        "image": "Covers/Dusevnyj.png",
+        "pmx": "v01/DusevnyjSavior.pmx"
     }
 ]
