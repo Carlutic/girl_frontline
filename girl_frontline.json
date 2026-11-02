@@ -1,0 +1,15 @@
+[
+    {
+        "id": 80001,
+        "name": "Clukay",
+        "displayName": "可露凯（无瑕侍礼）",
+        "weaponType": "",
+        "element": "GirlsFrontline",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/Clukay",
+        "image": "Covers/Clukay.png",
+        "pmx": "【少女前线2：追放】可露凯（无瑕侍礼)-全配件.pmx"
+    }
+]
