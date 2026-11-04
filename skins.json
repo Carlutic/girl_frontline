@@ -414,5 +414,33 @@
         "directory": "chars/Dusevnyj",
         "image": "Covers/Dusevnyj.png",
         "pmx": "v01/DusevnyjSavior.pmx"
+    },
+    {
+        "id": 80215,
+        "name": "Destroyer",
+        "displayName": "破坏者（皮肤）",
+        "weaponType": "AR",
+        "element": "GirlsFrontline",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/Destroyer",
+        "image": "Covers/Destroyer.png",
+        "pmx": "v01/GirlsFrontline DestroyerSSR0101 IK.pmx",
+        "base": "https://carlutic.github.io/girl_frontline/"
+    },
+    {
+        "id": 80216,
+        "name": "Destroyer",
+        "displayName": "破坏者（休息室）",
+        "weaponType": "AR",
+        "element": "GirlsFrontline",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/Destroyer",
+        "image": "Covers/Destroyer.png",
+        "pmx": "v02/GirlsFrontline DestroyerRestroom.pmx",
+        "base": "https://carlutic.github.io/girl_frontline/"
     }
 ]

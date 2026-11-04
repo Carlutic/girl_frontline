@@ -444,5 +444,19 @@
             "Cth-Hairband-Crystal",
             "Emotions1"
         ]
+    },
+    {
+        "id": 80069,
+        "name": "Destroyer",
+        "displayName": "破坏者",
+        "weaponType": "AR",
+        "element": "GirlsFrontline",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/Destroyer",
+        "image": "Covers/Destroyer.png",
+        "pmx": "GirlsFrontline DestroyerDefault IK.pmx",
+        "base": "https://carlutic.github.io/girl_frontline/"
     }
 ]
