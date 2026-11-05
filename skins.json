@@ -442,33 +442,5 @@
         "image": "Covers/Destroyer.png",
         "pmx": "v02/GirlsFrontline DestroyerRestroom.pmx",
         "base": "https://carlutic.github.io/girl_frontline/"
-    },
-    {
-        "id": 80220,
-        "name": "Qiuhua",
-        "displayName": "秋桦（仁心仁术）",
-        "weaponType": "",
-        "element": "GirlsFrontline",
-        "gender": "Female",
-        "region": "",
-        "rarity": 5,
-        "directory": "chars/Qiuhua",
-        "image": "Covers/Qiuhua.png",
-        "pmx": "v01/GirlsFrontline QiuhuaSSR0101.pmx",
-        "base": "https://carlutic.github.io/girl_frontline/"
-    },
-    {
-        "id": 80221,
-        "name": "Qiuhua",
-        "displayName": "秋桦（秋宴龙厨）",
-        "weaponType": "",
-        "element": "GirlsFrontline",
-        "gender": "Female",
-        "region": "",
-        "rarity": 5,
-        "directory": "chars/Qiuhua",
-        "image": "Covers/Qiuhua.png",
-        "pmx": "v02/GirlsFrontline QiuhuaShopingMallReward.pmx",
-        "base": "https://carlutic.github.io/girl_frontline/"
     }
 ]
