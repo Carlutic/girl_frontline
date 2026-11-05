@@ -351,19 +351,6 @@
         "pmx": "【少女前线2：追放】翡图萨原皮(包胶）/斐图萨.pmx"
     },
     {
-        "id": 80028,
-        "name": "Qiuhua",
-        "displayName": "秋桦",
-        "weaponType": "",
-        "element": "GirlsFrontline",
-        "gender": "Female",
-        "region": "",
-        "rarity": 5,
-        "directory": "chars/Qiuhua",
-        "image": "Covers/Qiuhua.png",
-        "pmx": "秋桦兔女郎/GirlsFrontline QiuhuaSSR0103.pmx"
-    },
-    {
         "id": 80029,
         "name": "Sextans",
         "displayName": "六分仪",
